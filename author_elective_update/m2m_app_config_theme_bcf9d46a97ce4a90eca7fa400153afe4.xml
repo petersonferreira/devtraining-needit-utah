@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>peterson.ferreira</sys_created_by>
+        <sys_created_on>2024-05-11 10:51:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bcf9d46a97ce4a90eca7fa400153afe4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>m2m_app_config_theme_bcf9d46a97ce4a90eca7fa400153afe4</sys_update_name>
+        <sys_updated_by>peterson.ferreira</sys_updated_by>
+        <sys_updated_on>2024-05-11 10:51:27</sys_updated_on>
+        <theme/>
+        <ux_app_configuration display_value="NeedIt Experience">9e66902697ce4a90eca7fa400153af7e</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>e4a7125a1b88fd906a85eb9b2d4bcb81</instance_id>
+        <instance_name>dev180738</instance_name>
+        <name>m2m_app_config_theme_bcf9d46a97ce4a90eca7fa400153afe4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability/><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>peterson.ferreira</sys_created_by><sys_created_on>2024-05-11 10:51:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bcf9d46a97ce4a90eca7fa400153afe4</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>m2m_app_config_theme_bcf9d46a97ce4a90eca7fa400153afe4</sys_update_name><sys_updated_by>peterson.ferreira</sys_updated_by><sys_updated_on>2024-05-11 10:51:27</sys_updated_on><theme/><ux_app_configuration display_value="NeedIt Experience">9e66902697ce4a90eca7fa400153af7e</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>1837146922</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>5f239cee978e4a90eca7fa400153af05</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>peterson.ferreira</sys_created_by>
+        <sys_created_on>2024-05-11 10:51:28</sys_created_on>
+        <sys_id>f0f9d46a97ce4a90eca7fa400153afe7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f674777ae0000001</sys_recorded_at>
+        <sys_updated_by>peterson.ferreira</sys_updated_by>
+        <sys_updated_on>2024-05-11 10:51:28</sys_updated_on>
+        <type>UX App Theme</type>
+        <update_guid>b4f9d46a87ce4a90b78de07ab1eb64e6</update_guid>
+        <update_guid_history>b4f9d46a87ce4a90b78de07ab1eb64e6:1837146922</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">e25b54ea97ce4a90eca7fa400153afc8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>peterson.ferreira</sys_created_by>
+        <sys_created_on>2024-05-11 10:57:35</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>b7b8d2cec85d4708aa9fb24eb7234231</sys_id>
+        <sys_metadata>bcf9d46a97ce4a90eca7fa400153afe4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_bcf9d46a97ce4a90eca7fa400153afe4</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_bcf9d46a97ce4a90eca7fa400153afe4">f0f9d46a97ce4a90eca7fa400153afe7</sys_update_version>
+        <sys_updated_by>peterson.ferreira</sys_updated_by>
+        <sys_updated_on>2024-05-11 10:57:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
